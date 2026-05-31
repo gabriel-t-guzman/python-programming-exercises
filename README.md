@@ -8,7 +8,7 @@ The main objective of these exercises was to master Python's syntax, core data s
 
 ## Repository Structure
 The project is organized chronologically by lecture/lab session (*Aulas*):
-* `aula1/` to `aula9/`: Weekly script assignments, fundamental algorithms, and problem-solving exercises.
+* `aula4/` to `aula9/`: Weekly script assignments, fundamental algorithms, and problem-solving exercises.
 
 ## Concepts Covered
 * Control flow and loops
